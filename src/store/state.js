@@ -1,4 +1,4 @@
 const state = {
-  countries: [],
-};
+  countries: []
+}
 export default state;

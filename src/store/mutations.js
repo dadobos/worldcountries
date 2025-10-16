@@ -1,6 +1,4 @@
 const mutations = {
-  SET_COUNTRIES(state, countries) {
-    state.countries = countries;
-  },
-};
+  setCountries (state, list) { state.countries = list }
+}
 export default mutations;
