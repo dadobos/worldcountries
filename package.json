@@ -1,5 +1,6 @@
 {
 	"name": "worldcountries",
+	"homepage": "https://dadobos.github.io/worldcountries/",
 	"version": "0.1.0",
 	"private": true,
 	"jest": {
